@@ -3,5 +3,5 @@ int n;
 for (int i=0; i<n;i++)
 {}
 
-hile (true){}
+while (true){}
 }
